@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns="http://www.owl-ontologies.com/unnamed.owl#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:schema="http://schema.org/"
+	xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#" 
+	xmlns:j.0="http://protege.stanford.edu/plugins/owl/protege#"  
+	xml:base="http://www.owl-ontologies.com/unnamed.owl">
+  <owl:Ontology rdf:about="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl"/>
+  <owl:Class rdf:ID="station">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="bike"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#bike">
+    <owl:disjointWith rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+  </owl:Class>
+  <owl:DatatypeProperty rdf:ID="name">
+    <rdfs:domain rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="total_spots">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="available_free_spots">
+    <rdfs:domain rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="available_bikes">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="idstation">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="file:/C:/Users/Stian/Documents/School/6.%20Semester%20(V20)/Web%20datamining%20&amp;%20Semantic/bicycle.owl#station"/>
+  </owl:DatatypeProperty>
+
+
+
+
+</rdf:RDF>
+
+
+
+<!-- Created with Protege (with OWL Plugin 1.3, Build 225.4)  http://protege.stanford.edu -->

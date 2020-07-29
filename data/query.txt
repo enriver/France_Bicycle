@@ -1,0 +1,15 @@
+PREFIX ns: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX rdfs:<http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.owl-ontologies.com/unnamed.owl#>
+
+
+SELECT ?name ?available_bikes ?free_spots ?total_spots
+WHERE {
+	 ?station rdf:type ns:station .
+	 ?station ns:name ?name .
+	 ?station ns:available_bikes ?available_bikes .
+	 ?station ns:available_free_spots ?free_spots .
+	 ?station ns:total_spots ?total_spots .
+	   	
+}

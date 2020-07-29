@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:schema="http://schema.org/">
+
+  <schema:station rdf:about="http://data.org/5510">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musée Beaux-Arts</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5516">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champs Libres</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5521">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8107626E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.680085E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Criée</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5534">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brest - Verdun</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5538">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marbeuf</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5546">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaine de Baud</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5578">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8126795E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gros-Chêne</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5580">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8122994E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.660547E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Painlevé</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5581">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8122147E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.650808E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turmel</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total_spots>
+  </schema:station>
+
+  <schema:station rdf:about="http://data.org/5582">
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8087282E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Poterie</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</schema:total_spots>
+  </schema:station>
+
+  <rdf:Description rdf:nodeID="genid1">
+    <schema:nhits rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</schema:nhits>
+    <schema:parameters>
+      <rdf:Description>
+        <schema:dataset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:dataset>
+        <schema:format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">json</schema:format>
+        <schema:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:rows>
+        <schema:timezone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UTC</schema:timezone>
+      </rdf:Description>
+    </schema:parameters>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5510"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">88a8871cd455b991aae541e2d60ebdab34840e3e</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5516"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b476b4248e499552a1449cb8afe72cc68c83c060</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5521"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.680085E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8107626E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b93bb925c844d3f550983b971ad43900bbffa8c6</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5534"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bd0f83abcec2974fda4a9be7b78f4bfbb3af4b27</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5538"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bc23b982c96a853bb90665c1d574e7d9c204daed</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5546"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77cac0a1ecd7f2af56c8668b201afe2a20e1c6bb</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5578"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8126795E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">f31381b27f50bb4bc23672b3ea5cc7abfca309c3</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5580"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.660547E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8122994E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7612c409a64e0434defb0d56508363c591be8afe</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5581"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.650808E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8122147E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0cedc710c25c3651e1d950725c9633a9065fd871</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+    <schema:records>
+      <rdf:Description>
+        <schema:datasetid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etat-des-stations-le-velo-star-en-temps-reel</schema:datasetid>
+        <schema:fields rdf:resource="http://data.org/5582"/>
+        <schema:geometry>
+          <rdf:Description>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</schema:coordinates>
+            <schema:coordinates rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8087282E1</schema:coordinates>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point</schema:type>
+          </rdf:Description>
+        </schema:geometry>
+
+        <schema:record_timestamp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:15:00+00:00</schema:record_timestamp>
+        <schema:recordid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1ee377102079bbe4ea444ded261fd2dcbfe8d3fb</schema:recordid>
+      </rdf:Description>
+    </schema:records>
+
+  </rdf:Description>
+
+</rdf:RDF>
