@@ -39,6 +39,38 @@
   </owl:DatatypeProperty>
 
 
+ 
+  
+  <rdf:Description rdf:about="data1">
+  <schema:domain>
+  <schema:station>
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musée Beaux-Arts</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total_spots>
+  </schema:station>
+  </schema:domain>
+  
+  <schema:domain>
+  <schema:station>
+    <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+    <schema:available_free_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_free_spots>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:coordonnees>
+    <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:coordonnees>
+    <schema:etat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En fonctionnement</schema:etat>
+    <schema:lastupdate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020-03-11T15:14:10+00:00</schema:lastupdate>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ttt</schema:name>
+    <schema:total_spots rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total_spots>
+  </schema:station>
+  </schema:domain>
+	
+	
+  </rdf:Description>
+
 
 
 </rdf:RDF>
